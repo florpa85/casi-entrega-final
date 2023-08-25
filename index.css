@@ -1,0 +1,24 @@
+.div_novedades {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 600px; }
+    .div_novedades .piezas_h1 {
+      color: #0f0f81;
+      font-size: 40px; }
+    .div_novedades .piezas_h2 {
+      color: #0f0f81;
+      font-size: 27px;
+      margin-top: -5px; }
+  
+  .back {
+    overflow: hidden;
+    margin-top: 15px;
+    border-bottom: 2px rgba(146, 141, 141, 0.493) solid; }
+
+   .titulo{
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 40px;
+    color: black;
+
+   } 
